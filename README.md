@@ -2,7 +2,7 @@
 Diretório destinado ao trabalho da disciplina de Computação Gráfica e Multimídia
 
 # Autores
-Aguinaldo de Souza Júnior
-Nathalya Stefhany
-Renan Dias Faria
-Rubens Cividati
+- Aguinaldo de Souza Júnior
+- Nathalya Stefhany
+- Renan Dias Faria
+- Rubens Cividati
